@@ -35,11 +35,6 @@
         margin-left: 35%;
     }
 
-.vid img {
-    width: 10%;
-    display: block;
-    margin: 10px auto; /* centers image horizontally */
-}
     
     @media only screen and (max-width: 768px) {
         .vid {
@@ -68,7 +63,7 @@
         }
         img {
             width: 30%;
-            padding-left: 0;
+            padding-left: -10%;
             margin-top: 10px;
         }
         div {
@@ -76,4 +71,5 @@
         }
 
     }
+
 
