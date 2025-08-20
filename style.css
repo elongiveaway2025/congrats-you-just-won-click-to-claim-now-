@@ -34,6 +34,12 @@
         justify-content: center;
         margin-left: 35%;
     }
+
+.vid img {
+    width: 10%;
+    display: block;
+    margin: 10px auto; /* centers image horizontally */
+}
     
     @media only screen and (max-width: 768px) {
         .vid {
@@ -70,3 +76,4 @@
         }
 
     }
+
