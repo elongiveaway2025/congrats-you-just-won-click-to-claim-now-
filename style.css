@@ -63,7 +63,7 @@
         }
         img {
             width: 30%;
-            padding-left: -10%;
+            padding-left: 0%;
             margin-top: 10px;
         }
         div {
@@ -71,5 +71,6 @@
         }
 
     }
+
 
 
