@@ -3,7 +3,6 @@
 }  
   
 body {  
-    width:80px;  
     background-image: url("./big.jpg");  
     background-size: cover;  
     background-position: center;  
@@ -34,6 +33,7 @@ h1 {
     justify-content: center;  
     margin-left: ;  
 }  
+
 
 
 
