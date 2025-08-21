@@ -67,6 +67,7 @@ img{
   .up, a {
     font-size: 0.9rem;
     padding: 8px 12px;
+    margin-right:-15%;
   }
   img {
     width: 40%;
@@ -82,12 +83,14 @@ img{
   }
   .up, a {
     font-size: 1.2rem;
+    margin-right:-15%;
   }
   img {
     width: 25%;
     margin-right:40%;
   }
 }
+
 
 
 
