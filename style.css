@@ -28,6 +28,7 @@ h1 {
   border-radius: 5px;
   display: inline-block;
   margin-top: 10px;
+  margin-left:20px;
 }
 
 /* Link styling */
@@ -81,6 +82,7 @@ a:hover {
     width: 10%;  /* smaller image on desktop */
   }
 }
+
 
 
 
