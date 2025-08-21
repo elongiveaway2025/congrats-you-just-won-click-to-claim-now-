@@ -67,6 +67,7 @@ a:hover {
   img {
     width: 40%;
     margin-top: 10px;
+    margin-right:20%;
   }
 }
 
@@ -79,6 +80,8 @@ a:hover {
     font-size: 1.2rem;
   }
   img {
-    width: 15%;
+    width: 25%;
+    margin-right:20%;
   }
 }
+
