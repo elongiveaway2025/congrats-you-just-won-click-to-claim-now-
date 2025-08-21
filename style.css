@@ -22,7 +22,7 @@ h1{
 /* Link styling */
 a {
     background-color: black;
-    color: black;
+    color: white;
     text-decoration: none; /* removes underline */
     padding: 10px 15px;
     border-radius: 5px; /* optional */
@@ -30,10 +30,11 @@ a {
 
 /* On hover (when mouse is over link) */
 a:hover {
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: white;
     border: 1px solid black;
 }
+
 
 
 
