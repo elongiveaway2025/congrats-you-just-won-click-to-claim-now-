@@ -30,10 +30,11 @@ a {
 
 /* On hover (when mouse is over link) */
 a:hover {
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
     border: 1px solid black;
 }
+
 
 
 
