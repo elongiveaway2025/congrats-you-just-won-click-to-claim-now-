@@ -4,12 +4,16 @@ body{
   background-position: center;
   background-repeat:no-repeat
 }
-.vid h1 p{
+h1{
   color: white;
 }
 .vid{
   margin-buttom:10px;
 }
+p{
+  color: white;
+}
+
 
 
 
