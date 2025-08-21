@@ -11,8 +11,15 @@ h1{
   margin-buttom:10px;
 }
 .vid p{
-  color: black;
+  color: white;
+  background-color:black;
+  border-radius:10px;
 }
+a{
+  background-color: white;
+  border-radius:10px;
+}
+
 
 
 
