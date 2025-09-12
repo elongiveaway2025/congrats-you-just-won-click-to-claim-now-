@@ -34,7 +34,6 @@ h1 {
 
 /* Claim text */
 .up {
-  background-color: black;
   color: white;
   padding: 10px 15px;
   border-radius: 5px;
@@ -96,6 +95,7 @@ a:hover {
     max-width: 60px;
   }
 }
+
 
 
 
